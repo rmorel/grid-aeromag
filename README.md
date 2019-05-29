@@ -8,4 +8,4 @@ Gridding of brazilian aeromagnetometric data with Python
 2. [Convert file format](https://github.com/rmorel/grid-aeromag/blob/master/notebooks/0.2-rm-convert-data-format.ipynb): This notebook convert the decorrugated IGRF reduced magnetic anomaly flight and tie lines dataset to the NPY format for convenience.
 
 ## License information
-See the file [LICENSE](https://github.com/rmorel/grid-aeromag/blob/master/LICENSE) for information on the history of this software, terms & conditions for usage.
+See the file [LICENSE](https://github.com/rmorel/grid-aeromag/blob/master/LICENSE) for information on terms & conditions for usage.
