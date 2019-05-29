@@ -5,6 +5,7 @@ __pycache__/
 
 data/raw/*
 data/processed/*
+data/interim/*.npy
 
 # C extensions
 *.so
