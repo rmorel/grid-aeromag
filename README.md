@@ -1,5 +1,8 @@
 # grid-aeromag
-Gridding of brazilian aeromagnetometric data with Python
+
+This repository is a example on how to grid real aerogeophysical data using python. As an example, I'll be using the magnetometric survey "1113 - Projeto Aerogeofísico Sudeste do Mato Grosso" made by the Geological Survey of Brazil, or simply [CPRM](https://www.cprm.gov.br/en/), which is the acronym for the company's official name in Portuguese.
+
+This data is quite big, in both size, area and number of data points. Because of that, it reflects a good real use case. All the code was done thinking on a real use, so any desktop PC should run this workflow without problems. The [notebooks](https://github.com/rmorel/grid-aeromag/tree/master/notebooks) have run time measurements for the most work intensive tasks. Either way, the heaviest tasks (file conversions) do not take more than 3-4 minutes. From data conversion to final interpolation, this workflow takes 7-10 minutes at most.
 
 ## Processing steps
 
