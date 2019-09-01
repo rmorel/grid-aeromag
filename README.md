@@ -16,5 +16,10 @@ This data is quite big, in both size, area and number of data points. Because of
 
 5. [Linear interpolation](https://github.com/rmorel/grid-aeromag/blob/master/notebooks/0.5-rm-linear-interpolation.ipynb): Interpolate the decimated data using linear interpolation.
 
+## Final products overview
+![Interpolated magnetic field](https://github.com/rmorel/grid-aeromag/blob/master/reports/figures/1113_MAGIGRF.png)
+
+Figure 1 - Interpolated IGRF corrected magnetic field.
+
 ## License information
 See the file [LICENSE](https://github.com/rmorel/grid-aeromag/blob/master/LICENSE) for information on terms & conditions for usage.
