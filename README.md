@@ -19,7 +19,7 @@ This data is quite big, in both size, area and number of data points. Because of
 ## Final products overview
 ![Interpolated magnetic field](https://user-images.githubusercontent.com/6715866/64086096-9a16d500-cd0c-11e9-841a-8ad3c2c1c882.png)
 
-Figure 1 - Interpolated IGRF corrected magnetic field.
+Figure 1 - Interpolated IGRF corrected magnetic field (WGS 84/UTM 22S).
 
 ## License information
 See the file [LICENSE](https://github.com/rmorel/grid-aeromag/blob/master/LICENSE) for information on terms & conditions for usage.
